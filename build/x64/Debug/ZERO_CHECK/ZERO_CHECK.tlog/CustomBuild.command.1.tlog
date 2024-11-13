@@ -1,0 +1,10 @@
+^C:\PROGA\OS\CMAKELAB1OS\BUILD\CMAKEFILES\7A7204E1833B4C236953E4A0E2E30299\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/proga/OS/CMakeLab1OS -BC:/proga/OS/CMakeLab1OS/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/proga/OS/CMakeLab1OS/build/CMakeLab1OS.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

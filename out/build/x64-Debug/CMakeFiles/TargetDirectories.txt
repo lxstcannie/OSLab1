@@ -1,0 +1,5 @@
+C:/proga/OS/CMakeLab1OS/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/proga/OS/CMakeLab1OS/out/build/x64-Debug/CMakeFiles/reporter.dir
+C:/proga/OS/CMakeLab1OS/out/build/x64-Debug/CMakeFiles/main.dir
+C:/proga/OS/CMakeLab1OS/out/build/x64-Debug/CMakeFiles/creator.dir
+C:/proga/OS/CMakeLab1OS/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

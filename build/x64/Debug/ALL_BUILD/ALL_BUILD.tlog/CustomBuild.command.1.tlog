@@ -1,0 +1,10 @@
+^C:\PROGA\OS\CMAKELAB1OS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/proga/OS/CMakeLab1OS -BC:/proga/OS/CMakeLab1OS/build --check-stamp-file C:/proga/OS/CMakeLab1OS/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
