@@ -1,5 +1,0 @@
-C:/proga/OS/CMakeLab1OS/build/CMakeFiles/reporter.dir
-C:/proga/OS/CMakeLab1OS/build/CMakeFiles/main.dir
-C:/proga/OS/CMakeLab1OS/build/CMakeFiles/creator.dir
-C:/proga/OS/CMakeLab1OS/build/CMakeFiles/ALL_BUILD.dir
-C:/proga/OS/CMakeLab1OS/build/CMakeFiles/ZERO_CHECK.dir
