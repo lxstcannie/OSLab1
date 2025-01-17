@@ -1,5 +1,0 @@
-C:/proga/OS/CMakeLab1OS/OSlab1/out/build/linux-debug/CMakeFiles/edit_cache.dir
-C:/proga/OS/CMakeLab1OS/OSlab1/out/build/linux-debug/CMakeFiles/reporter.dir
-C:/proga/OS/CMakeLab1OS/OSlab1/out/build/linux-debug/CMakeFiles/main.dir
-C:/proga/OS/CMakeLab1OS/OSlab1/out/build/linux-debug/CMakeFiles/creator.dir
-C:/proga/OS/CMakeLab1OS/OSlab1/out/build/linux-debug/CMakeFiles/rebuild_cache.dir
